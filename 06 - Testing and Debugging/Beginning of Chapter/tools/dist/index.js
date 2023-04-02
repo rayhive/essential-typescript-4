@@ -6,3 +6,5 @@ let message = ("Hello, TypeScript");
 printMessage(message);
 let total = (0, calc_1.sum)(100, 200, 300);
 console.log(`Total: ${total}`);
+debugger;
+//# sourceMappingURL=index.js.map
